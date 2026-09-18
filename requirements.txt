@@ -1,2 +1,2 @@
-opencv-python
-mediapipe
+opencv-python>=4.8,<5
+mediapipe>=0.10.14,<0.11
